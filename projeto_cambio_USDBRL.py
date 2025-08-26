@@ -27,4 +27,3 @@ if conversao:
     print(f"O valor de US$ {valor_dolar} em reais é: R$ {conversao}.")
 else:
     print("Não foi possível realizar a conversão.")
-#testando commit
